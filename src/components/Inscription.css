@@ -1,0 +1,19 @@
+.mon-titre2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    color: #009788;
+    margin-top: 3rem;
+    margin-left: 80px;
+}
+.login2{
+    width: 700px;
+    height: 800px;
+    background: rgba(0, 151, 136, 0.05);
+    margin-bottom:5rem;
+}
+.icons{
+    margin-top: 40px;
+    margin-left: 130px;
+    margin-bottom: 25px;
+}

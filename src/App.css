@@ -1,0 +1,56 @@
+/* .App {
+  text-align: center;
+} */
+
+.textarea{
+  /* width: 407px; */
+  height: 400px;
+  margin-left: 20px;
+  border:0;
+  border-radius: 10px;
+  background: rgba(0, 151, 136, 0.05);
+}
+::placeholder{
+  font-size: 40px;
+  margin-top: 3px;
+}
+.bouton2{
+  height: 74px;
+  margin-top:5px;
+  margin-left: 20px;
+  background:#009788;
+  border-radius: 10px; 
+  color: #fff;
+  font-size: 32px;
+  border: 2px solid #009788;
+}
+
+.publicité{
+  border-radius: 15px;
+  width: 230px;
+  height: 40px;
+  margin-bottom: 30px;
+  font-size: 25px;
+  font-weight: 500;
+  margin-top: 15px;
+}
+.title3{
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}

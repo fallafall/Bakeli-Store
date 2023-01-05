@@ -1,0 +1,48 @@
+.mon-titre{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    color: #009788;
+    margin-top: 3rem;
+    margin-left: 80px;
+}
+.connect-input{
+    width: 507px;
+    height: 64px;
+    margin-left: 80px;
+    border: 2px solid #009788;
+    border-radius: 10px;
+    background: rgba(0, 151, 136, 0.05);
+}
+.bouton{
+    height: 64px;
+    margin-top: 15px;
+    margin-left: 80px;
+    background:#009788;
+    border-radius: 10px; 
+    color: #fff;
+    font-size: 32px;
+    border: 2px solid #009788;
+}
+.login{
+    width: 700px;
+    height: 650px;
+    background: rgba(0, 151, 136, 0.05);
+    margin-bottom:20rem;
+    padding-top: 5rem
+}
+.label{
+    margin-left: 80px;
+    font-style: normal;
+    font-size: 20px;
+    color: #009788;
+
+}
+.col1{
+    margin-top: 12rem;
+    margin-left: 30px;
+}
+/* .form{
+    background: rgba(0, 151, 136, 0.05);
+    padding: 30px;
+} */

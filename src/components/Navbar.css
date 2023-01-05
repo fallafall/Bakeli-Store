@@ -1,0 +1,59 @@
+.navbar{
+    margin-bottom: 5rem;
+    /* overflow:hidden; */
+}
+.nav-item a{
+    margin-left: 30px;
+    font-size: 15px;
+}
+.connexion{
+    text-decoration: none;
+    color: #009788;
+    font-weight: 500;
+}
+.connect :hover{
+    color:#009788;
+    font-size: 15px;
+    margin-right: 15px;
+}
+.inscription{
+    text-decoration: none;
+    color: #fff;
+}
+.inscription:hover{
+    text-decoration: none;
+    color: #fff;
+}
+.inscrire{
+    background-color:#009788;
+    color: #fff;
+    height: 45px;
+    font-size: 15px;
+    border-radius:15px;
+}
+.inscrire:hover{
+    background-color:#009788;
+    color: #fff;
+}
+.search{
+    position: absolute;
+    height: 40px;
+    right: 1px;
+    background-color: #009788;
+    color: #fff;
+    border:0;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 50px;
+}
+.recherche{
+    position: relative;
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid  #009788;
+    margin-left: 2rem;
+}
+.forme{
+    right: 2rem;
+}
